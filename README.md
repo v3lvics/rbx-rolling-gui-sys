@@ -8,6 +8,7 @@
 *  Key:  GCBP8H1UFxuGsgG_ErdSHWa1rvXmP1EtVzEcOd2W5Oc*
 - [X] Paste model into studio baseplate or whatever you got.
 - [X] Try it out yourself now.
+- [X] Add blur instance into Lighting.
 
 > [!IMPORTANT]
 > I am holding the rights of the creation. Any reselling may be trouble for you.
